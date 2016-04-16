@@ -66,4 +66,5 @@ date_default_timezone_set("PRC");
                 else{
 			header("location:topage.php?mes=passwd err");
 		}
+                
 ?>

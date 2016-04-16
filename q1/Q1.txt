@@ -1,0 +1,13 @@
+Last Name:RK
+First Name:Lee
+Address:328 queen St
+City:AKL
+State:
+Zip\Post Code:100299
+Country:New Zealand
+Phone:6421888888
+E-mail:rk@qq.com
+Birth Date:01/02/2000
+Gender:male
+StartingSession:Spring2014
+CommentsQuestions:the internet so Slow , why?
